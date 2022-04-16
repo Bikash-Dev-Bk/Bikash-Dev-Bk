@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bikash Dev Bk
-- 👀 I’m interested in web and android application devloping.
+- 👀 I’m interested in Web Devloping.
 - 🌱 I’m currently learning Angular13.
 - 💞️ I’m looking to collaborate with other developer.
 💬 Ask me about Web Devloping, HTML, TypeScript, CSS, JavaScript, Angular13
