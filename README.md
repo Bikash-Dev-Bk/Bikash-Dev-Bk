@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bikash Dev Bk
 - 👀 I’m interested in Web Developing.
-- 🌱 I’m currently learning Angular13.
+- 🌱 I’m currently learning ReactJS.
 - 💞️ I’m looking to collaborate with other developer.
 - 💬 Ask me about Web Devloping, HTML, TypeScript, CSS, JavaScript, Angular13
 
