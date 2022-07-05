@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bikash Dev Bk
+- 👋 Hi, I’m Bikash Devsharma
 - 👀 I’m interested in Web Developing.
 - 🌱 I’m currently learning ReactJS.
 - 💞️ I’m looking to collaborate with other developer.
