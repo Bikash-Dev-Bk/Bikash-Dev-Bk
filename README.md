@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **JavaScript, Node.js, React.js, MongoDB, Express.js**
 
-- 📫 How to reach me **bikashdevsharma1@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/bikash-devsharma/**
 
 - ⚡ Fun fact **I love to play Chess**
 
