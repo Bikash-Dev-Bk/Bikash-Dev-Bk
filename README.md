@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **MERN Projects**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **JavaScript, Node.js, React.js, MongoDB, Express.js**
 
