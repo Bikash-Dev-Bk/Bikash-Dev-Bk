@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bikash Devsharma</h1>
 <h3 align="center">I'm a Full stack Developer!!</h3>
+<br/>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
-<p  align="left"> <img src="https://komarev.com/ghpvc/?username=bikash-dev-bk&label=Profile%20views&color=0e75b6&style=flat" alt="bikash-dev-bk" /> </p>
+## :eyes: Current overview
 
 - 🔭 I’m currently working on **MERN Projects**
 
@@ -14,6 +15,8 @@
 
 - ⚡ Fun fact **I love to play Chess**
 
+<br/>
+
 ## :mailbox: Reach me out
 <p align="left">
 <a href="https://www.linkedin.com/in/bikash-devsharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bikash-devsharma/" height="30" width="40" /></a>
@@ -24,6 +27,6 @@
 ## :computer: Technologies that I know
 ![My Skills](https://skills.thijs.gg/icons?i=js,react,tailwind,firebase,mongodb,html,css,bootstrap,express,nodejs,git)
 
-## :eyes: Current overview
+## :chart_with_upwards_trend: Current Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=bikash-dev-bk)](https://git.io/streak-stats)
 
