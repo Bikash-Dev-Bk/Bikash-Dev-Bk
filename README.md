@@ -14,20 +14,16 @@
 
 - ⚡ Fun fact **I love to play Chess**
 
-<h3 align="left">📫 Reach me out</h3>
+## :mailbox: Reach me out
 <p align="left">
 <a href="https://www.linkedin.com/in/bikash-devsharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bikash-devsharma/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/bks20128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bks20128" height="30" width="40" /></a>
 <a href="https://www.instagram.com/bks_dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/bks_dev/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">💻 Technologies that I know</h3>
-
-
-
+## :computer: Technologies that I know
 ![My Skills](https://skills.thijs.gg/icons?i=js,react,tailwind,firebase,mongodb,html,css,bootstrap,express,nodejs,git)
 
-
-
+## :eyes: Current overview
 [![GitHub Streak](https://streak-stats.demolab.com?user=bikash-dev-bk)](https://git.io/streak-stats)
 
