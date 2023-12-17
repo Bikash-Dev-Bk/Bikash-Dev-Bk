@@ -27,7 +27,7 @@
 </p>
 
 ## :computer: Technologies that I know
-![My Skills](https://skills.thijs.gg/icons?i=js,react,tailwind,firebase,mongodb,html,css,bootstrap,express,nodejs,git)
+![My Skills](https://skills.thijs.gg/icons?i=js,react,html,css,tailwind,bootstrap,firebase,mongodb,express,nodejs,git)
 
 ## :chart_with_upwards_trend: Current Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=bikash-dev-bk)](https://git.io/streak-stats)
